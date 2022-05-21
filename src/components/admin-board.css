@@ -1,0 +1,25 @@
+.cont{
+    background-color: black;
+    width: 70%;
+}
+
+.cont-outer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+    align-items: center;
+    color: rgb(241, 161, 1);
+}
+
+.pieChart-cont{
+  
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 50px;
+    align-items: center;
+    color: rgb(241, 161, 1);
+}

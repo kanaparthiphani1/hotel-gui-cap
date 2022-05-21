@@ -1,0 +1,25 @@
+.popup{
+    background-color: white;
+}
+
+.popupCont{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.trigger-button{
+    text-align: right;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 14px;
+    align-self: flex-end;
+}
+
+.otpInp{
+    width: 100px;
+}
